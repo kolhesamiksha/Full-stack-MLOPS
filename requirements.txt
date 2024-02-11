@@ -1,8 +1,0 @@
-numpy
-pandas
-seaborn
-scikit-learn
-optuna
-catboost
-xgboost
-shap
