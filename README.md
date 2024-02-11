@@ -6,5 +6,7 @@
 2. ML-Model Developement-Lifecycle Guide: step by step guide on typical ML-Model Lifecycle working using a Site EUI Energy prediction Regression Problem & In-detail explaination of Model Explainability using SHAP 
 [Hashnode-Article End-to-end guide](https://teckbakers.hashnode.dev/guide-model-pipeline-explainability-kubeflow-notebooks), [Notebook-Guide](https://www.kaggle.com/code/samikshakolhe/explainable-catboost-site-eui-pred-regression)
 
-3. Sample kfp pipelines
+3. Sample kfp pipelines: Here is a sample guide regarding how to built the pipelines using kfp, in-depth understanding of the backpower of kfp pipelines,argo workflows with a simple pipeline building example.
 [Hasnode-Article Sample_KFP_pipeline_example](https://teckbakers.hashnode.dev/demystifying-kubeflow-your-easy-guide-to-understanding-and-creating-pipelines-with-kfp)
+
+4. Sample Model Experimentation:
