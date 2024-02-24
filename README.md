@@ -9,5 +9,7 @@
 3. Sample kfp pipelines: Here is a sample guide regarding how to built the pipelines using kfp, in-depth understanding of the backpower of kfp pipelines,argo workflows with a simple pipeline building example.
 [Hasnode-Article Sample_KFP_pipeline_example](https://teckbakers.hashnode.dev/demystifying-kubeflow-your-easy-guide-to-understanding-and-creating-pipelines-with-kfp)
 
-4. Sample Model Experimentation:
+4. Sample Model Experimentation: Here is a sample guide on how to start with Model experiements tracking with a practical example.
 [Hashnode-Article Model tracking & serving](https://teckbakers.hashnode.dev/machine-learning-experiment-tracking-using-mlflow)
+
+5. Introduction to Feature-Store: 
