@@ -10,3 +10,4 @@
 [Hasnode-Article Sample_KFP_pipeline_example](https://teckbakers.hashnode.dev/demystifying-kubeflow-your-easy-guide-to-understanding-and-creating-pipelines-with-kfp)
 
 4. Sample Model Experimentation:
+[Hashnode-Article Model tracking & serving](https://teckbakers.hashnode.dev/machine-learning-experiment-tracking-using-mlflow)
